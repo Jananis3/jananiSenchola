@@ -1,9 +1,6 @@
 # jananiSenchola
-<!doctype html>
 <html>
 <head>
-<title>HTML Form
-Assignment</title>
 </head>
 <body>
 <form>
