@@ -2,8 +2,7 @@
     margin: 0;
     padding: 0;
 }
-.container-fluid
-{
-    background-color: skyblue;
+.carousel-item img{
+	width:100%;
+	height:80vh;
 }
-
