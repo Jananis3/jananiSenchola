@@ -8,6 +8,6 @@ body
 	overflow-x:hidden;
 }
 .carousel-item img{
-	width:75%;
+	width:50%;
 	height:100vh;
 }
