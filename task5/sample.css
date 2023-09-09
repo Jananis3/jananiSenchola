@@ -1,0 +1,20 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: sans-serif;
+
+}
+#navbar
+{
+    position: sticky;
+    top: 0;
+    z-index: 25;
+}
+.navbar
+{
+    background-imasge: linear-gradient(to right, #a517ba,#5f1782);
+}
