@@ -1,3 +1,4 @@
+
 //js part for shoooping cart
 
 const btnCart=document.querySelector('#cart-icon');
