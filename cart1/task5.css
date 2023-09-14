@@ -1,0 +1,93 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    cursor:pointer;
+    font-family:sans-serif;
+    }
+    .nav-item a{
+        text-decoration:none;
+        color:blue;
+        font-weight:600;
+        text-transform:uppercase;
+        margin-right:15px;
+        transition:all 0.4s;
+    }
+    .nav-item a:hover{
+        color:rgb(169, 220, 169);
+    }
+    .navbar-brand{
+        height:50px;
+        width:100px;
+    }
+    .search{
+        height:45px;
+        outline:none;
+        border:2px solid rgb(20,219,20);
+        background-color: transparent;
+        border-radius:20px 0px 0px 20px;
+
+    }
+    
+   .btn1{
+
+    height:45px;
+    outline:none;
+    border:none;
+    border:2px solid rgb(20,219,20);
+        color:white;
+        border-radius:0px 20px 20px 0px;
+        transition:all 0.4s;
+    }
+    .bi-bag-check{
+        font-size:30px;
+        color:black;
+        cursor:pointer;
+        padding-top:5px;
+        transition:all 0.4s;
+    }
+    .bi-bag-check:hover{
+        color:rgb(20,219,20);
+    }
+    .navbar-toggler{
+        font-size:23px;
+        color:black;
+    }
+    .navbar-toggler:focus{
+        outline:none;
+        box-shadow:none;
+    }
+    .main{
+        background-image: url(fruit.jpg);
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+        height:100vh;
+        width:90%;
+        
+    }
+    .mbtn1{
+        height:50px;
+        width:25%;
+        outline:none;
+        border:none;
+        color:black;
+        border:2px solid rgb(20,219,20);
+        border-radius:50px;
+        
+    
+    }
+    
+    .mbtn2{
+        height:50px;
+        width:25%;
+        outline:none;
+        border:none;
+        color:black;
+        border:2px solid rgb(20,219,20);
+        border-radius:50px;
+    
+    }
+    .carousel-item img{
+        width:100%;
+        height:80vh;
+    }
